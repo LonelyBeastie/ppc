@@ -1,0 +1,177 @@
+.navbar{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: inherit;
+}
+.ppc_logo{
+  background-image: url('../img/carousel/ppc_logo.png');
+  background-size: cover;
+  background-position: center top;
+}
+.fade_pic{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center top;
+}
+.not_shown{ display: none;}
+.blur_0{background-image: url('../img/carousel/blur_0.jpg');}
+.blur_1{background-image: url('../img/carousel/blur_1.jpg');}
+.blur_2{background-image: url('../img/carousel/blur_2.jpg');}
+.blur_3{background-image: url('../img/carousel/blur_3.jpg');}
+.blur_4{background-image: url('../img/carousel/blur_4.jpg');}
+
+.no-padding{
+  padding: 0;
+}
+.blue-over{
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background: rgba(26, 44, 122, 0.75);
+}
+.blue-over:hover {
+    background: none;
+}
+.location-label{
+  position: absolute;
+  left: 50%;
+  bottom: 20%;
+  color: white;
+  z-index: 5;
+  -webkit-transform: translate(-50%, 0%);
+  -moz-transform: translate(-50%, 0%);
+  -ms-transform: translate(-50%, 0%);
+  -o-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+}
+.logos{
+  width: 70%;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  z-index: 5;
+  -webkit-transform: translate(-50%, 0%);
+  -moz-transform: translate(-50%, 0%);
+  -ms-transform: translate(-50%, 0%);
+  -o-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+}
+.comingsoon-label{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: white;
+  /*z-index: 5;*/
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.property-tile{
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+.property{
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+}
+/*cole*/
+.cole1{background-image: url('../img/buildings/Cole%20Photos/Cole%20Pool.jpg');}
+.cole2{background-image: url('../img/buildings/Cole%20Photos/Cole%20sign.jpg');}
+.cole3{background-image: url('../img/buildings/Cole%20Photos/cole%20south%20side.jpg');}
+.cole4{background-image: url('../img/buildings/Cole%20Photos/Cole_Main.jpg');}
+/*grandmarc*/
+.grandmarc1{background-image: url('../img/buildings/Grandmarc%20Photos/GrandMarc%20Clemson%20Rendering.View%201.jpg');}
+.grandmarc2{background-image: url('../img/buildings/Grandmarc%20Photos/GrandMarc%20Clemson%20Rendering.View%202.jpg');}
+/*northwestern*/
+.northwestern1{background-image: url('../img/buildings/Northwestern%20Photos/DS_Northeastern_EastVillage_D2_02.jpg');}
+.northwestern2{background-image: url('../img/buildings/Northwestern%20Photos/DS_Northeastern_EastVillage_D2_04.jpg');}
+.northwestern3{background-image: url('../img/buildings/Northwestern%20Photos/DS_Northeastern_EastVillage_D2_05.jpg');}
+.northwestern4{background-image: url('../img/buildings/Northwestern%20Photos/DS_Northeastern_EastVillage_D2_10.jpg');}
+.northwestern5{background-image: url('../img/buildings/Northwestern%20Photos/Northeastern_EastVillage_01a.jpg');}
+.northwestern6{background-image: url('../img/buildings/Northwestern%20Photos/Northeastern_EastVillage_03a.jpg');}
+.northwestern7{background-image: url('../img/buildings/Northwestern%20Photos/Northeastern_EastVillage_04.jpg');}
+.northwestern8{background-image: url('../img/buildings/Northwestern%20Photos/Northeastern_EastVillage_06.jpg');}
+.northwestern9{background-image: url('../img/buildings/Northwestern%20Photos/Northeastern_EastVillage_07.jpg');}
+.northwestern10{background-image: url('../img/buildings/Northwestern%20Photos/Northeastern_EastVillage_11.jpg');}
+/*paseo*/
+.paseo1{background-image: url('../img/buildings/Paseo%20Photos/CK_6408.jpg');}
+.paseo2{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7601.jpg');}
+.paseo3{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7608.jpg');}
+.paseo4{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7647.jpg');}
+.paseo5{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7661.jpg');}
+.paseo6{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7740.jpg');}
+.paseo7{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7764_2.jpg');}
+.paseo8{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7863.jpg');}
+.paseo9{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7949.jpg');}
+.paseo10{background-image: url('../img/buildings/Paseo%20Photos/3392_81R7991.jpg');}
+.paseo11{background-image: url('../img/buildings/Paseo%20Photos/3392_81R8086.jpg');}
+.paseo12{background-image: url('../img/buildings/Paseo%20Photos/3392_81R8131.jpg');}
+.paseo13{background-image: url('../img/buildings/Paseo%20Photos/Paseo.jpg');}
+/*runaway*/
+.runaway1{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_2.jpg');}
+.runaway2{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_3.jpg');}
+.runaway3{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_6.jpg');}
+.runaway4{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_7.jpg');}
+.runaway5{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_9.jpg');}
+.runaway6{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_21.jpg');}
+.runaway7{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_22.jpg');}
+.runaway8{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_27.jpg');}
+.runaway9{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_39.jpg');}
+.runaway10{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_42.jpg');}
+.runaway11{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_45.jpg');}
+.runaway12{background-image: url('../img/buildings/Runway%20Photos/IMG_0590.jpg');}
+/*studio*/
+.studio1{background-image: url('../img/buildings/Studio%20Photos/IMG_4622.jpg');}
+.studio2{background-image: url('../img/buildings/Studio%20Photos/IMG_4660.jpg');}
+.studio3{background-image: url('../img/buildings/Studio%20Photos/IMG_4667.jpg');}
+.studio4{background-image: url('../img/buildings/Studio%20Photos/IMG_4726.jpg');}
+.studio5{background-image: url('../img/buildings/Studio%20Photos/IMG_4736.jpg');}
+.studio6{background-image: url('../img/buildings/Studio%20Photos/IMG_4806.jpg');}
+.studio7{background-image: url('../img/buildings/Studio%20Photos/IMG_4835.jpg');}
+.studio8{background-image: url('../img/buildings/Studio%20Photos/gym.jpg');}
+.studio9{background-image: url('../img/buildings/Studio%20Photos/IMG_0700.jpg');}
+.studio10{background-image: url('../img/buildings/Studio%20Photos/UCLA%20Housing%20LOHA%208926.jpg');}
+/*cadence*/
+.cadence1{background-image: url('../img/buildings/The%20Cadence%20Photos/C01.jpg');}
+.cadence2{background-image: url('../img/buildings/The%20Cadence%20Photos/C03%20(2).jpg');}
+.cadence3{background-image: url('../img/buildings/The%20Cadence%20Photos/Perspective_Less%20People.jpg');}
+.cadence4{background-image: url('../img/buildings/The%20Cadence%20Photos/The%20Cadence_clubhouse%20rendering.jpg');}
+.cadence5{background-image: url('../img/buildings/The%20Cadence%20Photos/The%20Cadence_Exterior%20Pool%20rendering.jpg');}
+/*ues*/
+.ues1{background-image: url('../img/buildings/UES%20Photos/shot1.jpg');}
+.ues2{background-image: url('../img/buildings/UES%20Photos/shot2.jpg');}
+.ues3{background-image: url('../img/buildings/UES%20Photos/shot3.jpg');}
+.ues4{background-image: url('../img/buildings/UES%20Photos/shot4.jpg');}
+.ues5{background-image: url('../img/buildings/UES%20Photos/shot5.jpg');}
+.ues6{background-image: url('../img/buildings/UES%20Photos/shot6.jpg');}
+.ues7{background-image: url('../img/buildings/UES%20Photos/shot7.jpg');}
+.ues8{background-image: url('../img/buildings/UES%20Photos/shot8.jpg');}
+.ues9{background-image: url('../img/buildings/UES%20Photos/shot9.jpg');}
+.ues10{background-image: url('../img/buildings/UES%20Photos/shot10.jpg');}
+.ues11{background-image: url('../img/buildings/UES%20Photos/shot11.jpg');}
+.ues12{background-image: url('../img/buildings/UES%20Photos/shot12.jpg');}
+.ues13{background-image: url('../img/buildings/UES%20Photos/shot13.jpg');}
+.ues14{background-image: url('../img/buildings/UES%20Photos/shot14.jpg');}
+.ues15{background-image: url('../img/buildings/UES%20Photos/shot17.jpg');}
+.ues16{background-image: url('../img/buildings/UES%20Photos/shot18.jpg');}
+.ues17{background-image: url('../img/buildings/UES%20Photos/shot19.jpg');}
+.ues18{background-image: url('../img/buildings/UES%20Photos/shot20.jpg');}
+/*coming soon*/
+.comingsoon{
+  background: rgba(26, 44, 122, 1);
+}
