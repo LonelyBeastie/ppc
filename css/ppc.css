@@ -234,6 +234,7 @@ form label{
   color: rgba(172, 161, 162, 1);
 }
 .btn-default{
+  margin-top: 40px;
   color: white;
   background-color: rgba(25, 44, 122, 1);
 }
