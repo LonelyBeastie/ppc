@@ -54,16 +54,16 @@
   transform: translate(-50%, 0%);
 }
 .logos{
-  width: 70%;
+  width: 40%;
   position: absolute;
   left: 50%;
-  top: 20%;
+  top: 40%;
   z-index: 5;
-  -webkit-transform: translate(-50%, 0%);
-  -moz-transform: translate(-50%, 0%);
-  -ms-transform: translate(-50%, 0%);
-  -o-transform: translate(-50%, 0%);
-  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 .comingsoon-label{
   position: absolute;
