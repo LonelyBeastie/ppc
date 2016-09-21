@@ -12,6 +12,13 @@ body{ font-family: Bembo;}
   margin-top: 30px;
   margin-bottom: 10px;
 }
+.hamburger{
+  color: white;
+  /*z-index: 1;*/
+  position: absolute;
+  right: 40px;
+  top: 40px;
+}
 .nav>li>a:focus, .nav>li>a:hover {
     background-color: inherit;
 }
