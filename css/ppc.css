@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
     font-family: HelveNeu;
     src: url('../font/HelveNeuBlaCon');
 }
@@ -7,7 +7,7 @@
     src: url('../font/Bembo');
 }
 body{ font-family: Bembo;}
-.font-hv{ font-family: HelveNeu;}
+.font-hv{ font-family: HelveNeu;}*/
 .navbar{
   margin-top: 30px;
   margin-bottom: 10px;
@@ -25,6 +25,7 @@ body{ font-family: Bembo;}
 .ppc_logo{
   background-image: url('../img/carousel/ppc_logo.png');
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center top;
 }
 .fade_pic{
@@ -34,6 +35,7 @@ body{ font-family: Bembo;}
   top: 0;
   left: 0;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center top;
 }
 .fade_pic_words{
@@ -130,12 +132,14 @@ body{ font-family: Bembo;}
   height: 300px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 .property{
   width: 100%;
   height: 700px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 /*cole*/
 .cole1{background-image: url('../img/buildings/Cole%20Photos/Cole%20Pool.jpg');}
