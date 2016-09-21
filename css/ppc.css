@@ -1,3 +1,13 @@
+@font-face {
+    font-family: HelveNeu;
+    src: url('../font/HelveNeuBlaCon');
+}
+@font-face {
+    font-family: Bembo;
+    src: url('../font/Bembo');
+}
+body{ font-family: Bembo;}
+.font-hv{ font-family: HelveNeu;}
 .navbar{
   margin-top: 30px;
   margin-bottom: 10px;
@@ -18,6 +28,24 @@
   left: 0;
   background-size: cover;
   background-position: center top;
+}
+.fade_pic_words{
+  font-size: 10vw;
+  color: white;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: white;
+  overflow: hidden;
+  white-space: nowrap;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.long{
+  font-size: 8vw;
 }
 .not_shown{ display: none;}
 .blur_0{background-image: url('../img/carousel/blur_0.jpg');}
@@ -52,6 +80,19 @@
   -ms-transform: translate(-50%, 0%);
   -o-transform: translate(-50%, 0%);
   transform: translate(-50%, 0%);
+}
+.logos-word{
+  font-size: 33px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  color: white;
+  z-index: 5;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 .logos{
   width: 40%;

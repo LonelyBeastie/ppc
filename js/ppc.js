@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  var fade_time = 1000;
-  loop_slide_fading(fade_time);
+  var fade_time = 3000;
+  setTimeout(function(){ loop_slide_fading(fade_time) }, 2000);
 });
 
 function loop_slide_fading(fade_time){
