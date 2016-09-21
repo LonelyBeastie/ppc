@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  var fade_time = 3000;
+  var fade_time = 2000;
   setTimeout(function(){ loop_slide_fading(fade_time) }, 1000);
 });
 
