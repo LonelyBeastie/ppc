@@ -1,13 +1,13 @@
-/*@font-face {
-    font-family: HelveNeu;
-    src: url('../font/HelveNeuBlaCon');
-}
 @font-face {
+    font-family: HelveNeu;
+    src: url('../font/HelveticaNeue-CondensedBold.otf');
+}
+/*@font-face {
     font-family: Bembo;
     src: url('../font/Bembo');
 }
-body{ font-family: Bembo;}
-.font-hv{ font-family: HelveNeu;}*/
+body{ font-family: Bembo;}*/
+.font-hv{ font-family: HelveNeu;}
 .navbar{
   margin-top: 30px;
   margin-bottom: 10px;
