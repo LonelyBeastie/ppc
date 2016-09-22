@@ -2,11 +2,14 @@
     font-family: HelveNeu;
     src: url('../font/HelveticaNeue-CondensedBold.otf');
 }
-/*@font-face {
+@font-face {
     font-family: Bembo;
-    src: url('../font/Bembo');
+    src: url('../font/Bembo.ttf');
 }
-body{ font-family: Bembo;}*/
+body{
+  font-family: Bembo;
+  font-size: 16px;
+}
 .font-hv{ font-family: HelveNeu;}
 .navbar{
   margin-top: 30px;
@@ -90,6 +93,7 @@ body{ font-family: Bembo;}*/
   -ms-transform: translate(-50%, 0%);
   -o-transform: translate(-50%, 0%);
   transform: translate(-50%, 0%);
+  font-size: 16px;
 }
 .logos-word{
   font-size: 33px;
