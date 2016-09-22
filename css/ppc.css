@@ -23,7 +23,8 @@ body{ font-family: Bembo;}
     background-color: inherit;
 }
 .ppc_logo{
-  background-image: url('../img/carousel/ppc_logo.png');
+  /*background-image: url('../img/carousel/ppc_logo.png');*/
+  background-image: url('../img/carousel/Home%20Page%201st%20page.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
