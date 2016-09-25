@@ -233,7 +233,6 @@ body{
 .comingsoon{
   background: rgba(26, 44, 122, 1);
 }
-
 /*contact*/
 form {padding-top: 30px;}
 .row.pb{
@@ -256,3 +255,5 @@ form label{
   color: rgba(172, 161, 162, 1);
   letter-spacing: 2px;
 }
+/*slider*/
+.carousel-control.left, .carousel-control.right { background-image: none;}
