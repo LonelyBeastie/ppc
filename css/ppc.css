@@ -161,6 +161,11 @@ body{
 .grandmarc6{background-image: url('../img/buildings/Grandmarc%20Photos/photo4.png');}
 .grandmarc7{background-image: url('../img/buildings/Grandmarc%20Photos/photo5.png');}
 .grandmarc8{background-image: url('../img/buildings/Grandmarc%20Photos/photo6.png');}
+.grandmarc9{background-image: url('../img/buildings/Grandmarc%20Photos/Pool.jpg');}
+.grandmarc10{background-image: url('../img/buildings/Grandmarc%20Photos/student%20annex.jpg');}
+.grandmarc11{background-image: url('../img/buildings/Grandmarc%20Photos/unit-dt.jpg');}
+.grandmarc12{background-image: url('../img/buildings/Grandmarc%20Photos/Unit2.jpg');}
+.grandmarc13{background-image: url('../img/buildings/Grandmarc%20Photos/c1.jpg');}
 /*northwestern*/
 .northwestern1{background-image: url('../img/buildings/Northwestern%20Photos/DS_Northeastern_EastVillage_D2_02.jpg');}
 .northwestern2{background-image: url('../img/buildings/Northwestern%20Photos/DS_Northeastern_EastVillage_D2_04.jpg');}
@@ -187,18 +192,19 @@ body{
 .paseo12{background-image: url('../img/buildings/Paseo%20Photos/3392_81R8131.jpg');}
 .paseo13{background-image: url('../img/buildings/Paseo%20Photos/Paseo.jpg');}
 /*runaway*/
-.runaway1{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_2.jpg');}
-.runaway2{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_3.jpg');}
-.runaway3{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_6.jpg');}
-.runaway4{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_7.jpg');}
-.runaway5{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_9.jpg');}
-.runaway6{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_21.jpg');}
-.runaway7{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_22.jpg');}
-.runaway8{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_27.jpg');}
-.runaway9{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_39.jpg');}
-.runaway10{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_42.jpg');}
-.runaway11{background-image: url('../img/buildings/Runway%20Photos/150905_Runway_45.jpg');}
-.runaway12{background-image: url('../img/buildings/Runway%20Photos/IMG_0590.jpg');}
+.runaway0{background-image: url('../img/buildings/Runway%20Photos/archive/150905_Runway_45.jpg');}
+.runaway1{background-image: url('../img/buildings/Runway%20Photos/Runway1.jpg');}
+.runaway2{background-image: url('../img/buildings/Runway%20Photos/Runway2.jpg');}
+.runaway3{background-image: url('../img/buildings/Runway%20Photos/Runway3.jpg');}
+.runaway4{background-image: url('../img/buildings/Runway%20Photos/Runway4.jpg');}
+.runaway5{background-image: url('../img/buildings/Runway%20Photos/Runway5.jpg');}
+.runaway6{background-image: url('../img/buildings/Runway%20Photos/Runway6.jpg');}
+.runaway7{background-image: url('../img/buildings/Runway%20Photos/Runway7.jpg');}
+.runaway8{background-image: url('../img/buildings/Runway%20Photos/Runway8.jpg');}
+.runaway9{background-image: url('../img/buildings/Runway%20Photos/Runway9.jpg');}
+.runaway10{background-image: url('../img/buildings/Runway%20Photos/Runway10.jpg');}
+.runaway11{background-image: url('../img/buildings/Runway%20Photos/Runway11.jpg');}
+.runaway12{background-image: url('../img/buildings/Runway%20Photos/Runway12.jpg');}
 /*studio*/
 .studio1{background-image: url('../img/buildings/Studio%20Photos/IMG_4622.jpg');}
 .studio2{background-image: url('../img/buildings/Studio%20Photos/IMG_4660.jpg');}
