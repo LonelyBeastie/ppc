@@ -27,10 +27,24 @@ body{
 }
 .ppc_logo{
   /*background-image: url('../img/carousel/ppc_logo_too.png');*/
-  background-image: url('../img/carousel/Home%20Page%201st%20page.png');
+  /*background-image: url('../img/carousel/home_page_logo.png');*/
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
+}
+.opening{
+  height: 100vh;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  overflow: hidden;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  /*z-index: 1;*/
+
 }
 .fade_pic{
   width: 100%;
