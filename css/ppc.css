@@ -26,8 +26,8 @@ body{
     background-color: inherit;
 }
 .ppc_logo{
-  /*background-image: url('../img/carousel/ppc_logo_too.png');*/
-  /*background-image: url('../img/carousel/home_page_logo.png');*/
+
+  background-image: url('../img/carousel/Home%20Page%201st%20page.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
