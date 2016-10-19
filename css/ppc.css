@@ -32,8 +32,11 @@ body{
   background-repeat: no-repeat;
   background-position: center top;
 }
-.opening{
+.opening-enclosure{
   height: 100vh;
+}
+.opening{
+  width: 100%;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -44,6 +47,7 @@ body{
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   /*z-index: 1;*/
+  padding: 17%;
 
 }
 .fade_pic{

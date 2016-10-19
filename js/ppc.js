@@ -1,9 +1,9 @@
 $(document).ready(function() {
   var fade_time = 2000;
-  setTimeout(function(){
-    $(".opening").hide();
-    loop_slide_fading(fade_time);
-  }, 3000);
+  // setTimeout(function(){
+  //   $(".opening").hide();
+  //   loop_slide_fading(fade_time);
+  // }, 3000);
 });
 
 function loop_slide_fading(fade_time){
