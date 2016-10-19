@@ -15,8 +15,15 @@ body{
   margin-top: 30px;
   margin-bottom: 10px;
 }
+.navbar-toggle {
+  background-color: rgba(172, 161, 162, 1);
+  /*border-color: black;*/
+}
+.current{
+
+}
 .hamburger{
-  color: white;
+
   /*z-index: 1;*/
   position: absolute;
   right: 40px;
@@ -25,8 +32,9 @@ body{
 .nav>li>a:focus, .nav>li>a:hover {
     background-color: inherit;
 }
+ul li a{ color: rgba(172, 161, 162, 1); }
+ul li a.current{ color: rgba(25, 44, 122, 1); }
 .ppc_logo{
-
   background-image: url('../img/carousel/Home%20Page%201st%20page.png');
   background-size: cover;
   background-repeat: no-repeat;

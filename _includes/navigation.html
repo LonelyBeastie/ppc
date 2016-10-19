@@ -12,8 +12,8 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="index.html">HOME</a></li>
-        <li><a href="neighborhoods.html">NEIGHBORHOODS</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="neighborhoods.html" class="{% if page.page_name == 'neighborhoods' %}current{% endif %}">NEIGHBORHOODS</a></li>
+        <li><a href="contact.html" class="{% if page.page_name == 'contact' %}current{% endif %}">CONTACT</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
