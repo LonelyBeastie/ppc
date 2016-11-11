@@ -35,7 +35,7 @@ body{
 ul li a{ color: rgba(172, 161, 162, 1); }
 ul li a.current{ color: rgba(25, 44, 122, 1); }
 .ppc_logo{
-  background-image: url('../img/carousel/Home%20Page%201st%20page.png');
+  background-image: url('../img/carousel/ppc_logo.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
