@@ -9,7 +9,7 @@ $(document).ready(function() {
 function loop_slide_fading(fade_time){
   slide_fading(fade_time).then(function() {
     // loop_slide_fading(fade_time);
-    window.location.href = "neighborhoods.html";
+    window.location.href = "main.html";
   });
 }
 function slide_fading(fade_time){
