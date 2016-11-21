@@ -49,7 +49,7 @@ ul li a.current{ color: rgba(25, 44, 122, 1); }
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   /*z-index: 1;*/
-  padding: 17%;
+  /*padding: 17%;*/
 
 }
 .like-opening{
@@ -366,7 +366,7 @@ p.footer-text a{
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
   .contact_logo{ height: 250px;}
-  .like-opening { padding: 17%; }
+  .opening, .like-opening { padding: 17%; }
   .footer-text{ white-space: nowrap; }
 
 }
